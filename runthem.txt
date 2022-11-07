@@ -1,0 +1,101 @@
+0.0002
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0201/tb/ --pathlog ./supernet_functions/logs0201/logger --pathsave ./supernet_functions/logs0201/cur_model.pth --pathbest ./supernet_functions/logs0201/best_model.pth --sparse 0.0005  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0202/tb/ --pathlog ./supernet_functions/logs0202/logger --pathsave ./supernet_functions/logs0202/cur_model.pth --pathbest ./supernet_functions/logs0202/best_model.pth --sparse 0.005    
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0203/tb/ --pathlog ./supernet_functions/logs0203/logger --pathsave ./supernet_functions/logs0203/cur_model.pth --pathbest ./supernet_functions/logs0203/best_model.pth --sparse 0.0001  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0204/tb/ --pathlog ./supernet_functions/logs0204/logger --pathsave ./supernet_functions/logs0204/cur_model.pth --pathbest ./supernet_functions/logs0204best_model.pth --sparse 0.00005   
+
+ 21177498  21177499  21177500 21177501
+
+
+0.002
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0201/tb/ --pathlog ./supernet_functions/logs0201/logger --pathsave ./supernet_functions/logs0201/cur_model.pth --pathbest ./supernet_functions/logs0205/best_model.pth --sparse 0.0005 XXXXXX
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0201/tb/ --pathlog ./supernet_functions/logs0201/logger --pathsave ./supernet_functions/logs0201/cur_model.pth --pathbest ./supernet_functions/logs0206/best_model.pth --sparse 0.005 XXXXXX
+
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0205/tb/ --pathlog ./supernet_functions/logs0205/logger --pathsave ./supernet_functions/logs0205/cur_model.pth --pathbest ./supernet_functions/logs0205/best_model.pth --sparse 0.0001  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0206/tb/ --pathlog ./supernet_functions/logs0206/logger --pathsave ./supernet_functions/logs0206/cur_model.pth --pathbest ./supernet_functions/logs0206/best_model.pth --sparse 0.00005  
+
+ 21177502  21177503
+ 
+ lr 0.005
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0209/tb/ --pathlog ./supernet_functions/logs0209/logger --pathsave ./supernet_functions/logs0209/cur_model.pth --pathbest ./supernet_functions/logs0209/best_model.pth --sparse 0.00005  
+21177770
+
+0.0002
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0207/tb/ --pathlog ./supernet_functions/logs0207/logger --pathsave ./supernet_functions/logs0207/cur_model.pth --pathbest ./supernet_functions/logs0207/best_model.pth --sparse 0.00005  
+21177772
+
+tb!!!!!!
+
+
+
+
+
+
+
+
+
+0.0002
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0301/tb/ --pathlog ./supernet_functions/logs0301/logger --pathsave ./supernet_functions/logs0301/cur_model.pth --pathbest ./supernet_functions/logs0301/best_model.pth --sparse 0.00005  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0302/tb/ --pathlog ./supernet_functions/logs0302/logger --pathsave ./supernet_functions/logs0302/cur_model.pth --pathbest ./supernet_functions/logs0302/best_model.pth --sparse 0.0005
+
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0301/tb/ --pathlog ./supernet_functions/logs0301/logger --pathsave ./supernet_functions/logs0301/cur_model.pth --pathbest ./supernet_functions/logs0301/best_model.pth --sparse 0.005   XXXXXX
+
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0301/tb/ --pathlog ./supernet_functions/logs0301/logger --pathsave ./supernet_functions/logs0301/cur_model.pth --pathbest ./supernet_functions/logs0301/best_model.pth --sparse 0.0001  XXXXXX  
+
+
+
+0.005
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0303/tb/ --pathlog ./supernet_functions/logs0303/logger --pathsave ./supernet_functions/logs0303/cur_model.pth --pathbest ./supernet_functions/logs0303/best_model.pth --sparse 0.00005  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0304/tb/ --pathlog ./supernet_functions/logs0304/logger --pathsave ./supernet_functions/logs0304/cur_model.pth --pathbest ./supernet_functions/logs0304/best_model.pth --sparse 0.0005
+
+
+w 0.0002 g 0.005
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0305/tb/ --pathlog ./supernet_functions/logs0305/logger --pathsave ./supernet_functions/logs0305/cur_model.pth --pathbest ./supernet_functions/logs0305/best_model.pth --sparse 0.00005  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0306/tb/ --pathlog ./supernet_functions/logs0306/logger --pathsave ./supernet_functions/logs0306/cur_model.pth --pathbest ./supernet_functions/logs0306/best_model.pth --sparse 0.0005
+
+21177905
+21177906
+21177907
+21177908
+21177909
+21177910
+
+
+0.00025
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0307/tb/ --pathlog ./supernet_functions/logs0307/logger --pathsave ./supernet_functions/logs0307/cur_model.pth --pathbest ./supernet_functions/logs0307/best_model.pth --sparse 0.00005  
+21178390
+
+
+0.000125
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0308/tb/ --pathlog ./supernet_functions/logs0308/logger --pathsave ./supernet_functions/logs0308/cur_model.pth --pathbest ./supernet_functions/logs0308/best_model.pth --sparse 0.00005  
+
+
+mfinver2!
+0.000125
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0309/tb/ --pathlog ./supernet_functions/logs0309/logger --pathsave ./supernet_functions/logs0309/cur_model.pth --pathbest ./supernet_functions/logs0309/best_model.pth --sparse 0.00005  
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0309/tb/ --pathlog ./supernet_functions/logs0309/logger --pathsave ./supernet_functions/logs0309/cur_model.pth --pathbest ./supernet_functions/logs0309/best_model.pth --sparse 0.0005  
+
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0311/tb/ --pathlog ./supernet_functions/logs0311/logger --pathsave ./supernet_functions/logs0311/cur_model.pth --pathbest ./supernet_functions/logs0311/best_model.pth --sparse 0.00005  
+21178800
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0312/tb/ --pathlog ./supernet_functions/logs0312/logger --pathsave ./supernet_functions/logs0312/cur_model.pth --pathbest ./supernet_functions/logs0312/best_model.pth --sparse 0.0005  
+21178801
+
+
+
+0.005
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0313/tb/ --pathlog ./supernet_functions/logs0313/logger --pathsave ./supernet_functions/logs0313/cur_model.pth --pathbest ./supernet_functions/logs0313/best_model.pth --sparse 0.00005  --wlr 0.005 --tlr 0.005
+21178802
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0314/tb/ --pathlog ./supernet_functions/logs0314/logger --pathsave ./supernet_functions/logs0314/cur_model.pth --pathbest ./supernet_functions/logs0314/best_model.pth --sparse 0.0005  --wlr 0.005 --tlr 0.005
+21178803
+
+
+w 0.00125  t 0.000125
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0315/tb/ --pathlog ./supernet_functions/logs0315/logger --pathsave ./supernet_functions/logs0315/cur_model.pth --pathbest ./supernet_functions/logs0315/best_model.pth --sparse 0.00005  --wlr 0.00125
+21179610
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0316/tb/ --pathlog ./supernet_functions/logs0316/logger --pathsave ./supernet_functions/logs0316/cur_model.pth --pathbest ./supernet_functions/logs0316/best_model.pth --sparse 0.0005  --wlr 0.00125
+21179611
+
+
+sbatch supernet_main_file.py 
+
+sbatch supernet_main_file.py --pathtb ./supernet_functions/logs0316/tb/ --pathlog ./supernet_functions/logs0316/logger --pathsave ./supernet_functions/logs0316/cur_model.pth --pathbest ./supernet_functions/logs0316/best_model.pth --sparse 0.0005  --wlr 0.00125

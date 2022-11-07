@@ -1,0 +1,7 @@
+11/05 04:47:35 AM | Start to train weights for epoch 0
+11/05 04:48:38 AM | Train: [  1/2000] Step 050/147 Loss 1446.152 , total_loss 941.329, lat_loss 7.681, hm_loss 891.112, reg_loss 12.856, wh_loss 10.395, offset_loss 26.965
+11/05 04:49:26 AM | Train: [  1/2000] Step 100/147 Loss 766.860 , total_loss 499.164, lat_loss 7.681, hm_loss 453.249, reg_loss 11.616, wh_loss 11.605, offset_loss 22.694
+11/05 04:50:09 AM | Train: [  1/2000] Step 147/147 Loss 536.798 , total_loss 349.412, lat_loss 7.681, hm_loss 313.123, reg_loss 9.409, wh_loss 9.375, offset_loss 17.505
+11/05 04:50:09 AM | _w_step_train: [  1/2000] Time 154.13
+11/05 04:55:06 AM | Start to train weights for epoch 0
+11/05 04:56:07 AM | Train: [  1/2000] Step 050/147 Loss 1446.152 , total_loss 941.329, lat_loss 7.681, hm_loss 891.112, reg_loss 12.856, wh_loss 10.395, offset_loss 26.965

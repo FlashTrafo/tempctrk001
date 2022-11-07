@@ -1,0 +1,29 @@
+input h w: 544 960
+heads {'hm': 4, 'reg': 2, 'wh': 2, 'tracking': 2}
+weights {'hm': 1, 'reg': 1, 'wh': 1, 'tracking': 1}
+head conv {'hm': [-1], 'reg': [-1], 'wh': [-1], 'tracking': [-1]}
+==> initializing train data from /pfs/data5/home/kit/tm/px6680/cth2/data/testdata004/annotations/train.json, 
+ images from /pfs/data5/home/kit/tm/px6680/cth2/data/testdata004/train/ ...
+loading annotations into memory...
+Done (t=0.04s)
+creating index...
+index created!
+Creating video index!
+Loaded DETRAC dataset 4716 samples
+==> initializing grad data from /pfs/data5/home/kit/tm/px6680/cth2/data/testdata004/annotations/grad.json, 
+ images from /pfs/data5/home/kit/tm/px6680/cth2/data/testdata004/grad/ ...
+loading annotations into memory...
+Done (t=0.04s)
+creating index...
+index created!
+Creating video index!
+Loaded DETRAC dataset 5543 samples
+==> initializing val data from /pfs/data5/home/kit/tm/px6680/cth2/data/testdata004/annotations/val.json, 
+ images from /pfs/data5/home/kit/tm/px6680/cth2/data/testdata004/val/ ...
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+Creating video index!
+Loaded DETRAC dataset 440 samples
+Model with lowest val loss 0.0. Save model
