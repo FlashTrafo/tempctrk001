@@ -84,7 +84,7 @@ def main():
     
     #### Training Loop
     trainer = TrainerArch(criterion, optimizer, scheduler, logger, writer)
-    trainer.train_loop(train_loader, train_loader, model) 
+    trainer.train_loop(train_loader, train_loader, model) #...
     # print("ok")
     
 if __name__ == "__main__":
